@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-23T01:55:30.412Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>article title</title>
+    <link href="http://yoursite.com/2020/03/23/article-title/"/>
+    <id>http://yoursite.com/2020/03/23/article-title/</id>
+    <published>2020-03-23T01:54:49.000Z</published>
+    <updated>2020-03-23T01:55:30.412Z</updated>
+    
+    <content type="html"><![CDATA[<p>日语学习体会</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;日语学习体会&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎来到这里</title>
+    <link href="http://yoursite.com/2020/03/23/wel/"/>
+    <id>http://yoursite.com/2020/03/23/wel/</id>
+    <published>2020-03-23T00:39:16.000Z</published>
+    <updated>2020-03-23T00:43:18.033Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="分光计实验报告"><a href="#分光计实验报告" class="headerlink" title=" 分光计实验报告"></a><center> 分光计实验报告</center></h1><h4 id="测量的顶角A"><a href="#测量的顶角A" class="headerlink" title="测量的顶角A"></a>测量的顶角A</h4><table><thead><tr><th>A1</th><th>A2</th><th>A3</th></tr></thead><tbody><tr><td>60.03737</td><td>60.01255</td><td>60.01150</td></tr></tbody></table><p>平均值为 60°1′12″</p><h4 id="汞灯各个光谱线和对应的最小偏向角-单位-°"><a href="#汞灯各个光谱线和对应的最小偏向角-单位-°" class="headerlink" title="汞灯各个光谱线和对应的最小偏向角 单位 °"></a>汞灯各个光谱线和对应的最小偏向角 单位 °</h4><table><thead><tr><th>紫光</th><th>蓝光</th><th>蓝绿光</th><th>绿光</th><th>绿光</th><th>绿光</th><th>橙光</th><th align="center">红光</th></tr></thead><tbody><tr><td>39.3500</td><td>39.0210</td><td>38.8230</td><td>38.2650</td><td>38.2590</td><td>38.2880</td><td>38.1460</td><td align="center">38.0650</td></tr></tbody></table><h4 id="不同波长光的折射率"><a href="#不同波长光的折射率" class="headerlink" title="不同波长光的折射率"></a>不同波长光的折射率</h4><table><thead><tr><th>紫光</th><th>蓝光</th><th>蓝绿光</th><th>绿光</th><th>绿光</th><th>绿光</th><th>橙光</th><th align="center">红光</th></tr></thead><tbody><tr><td>1.5248</td><td>1.5210</td><td>1.5188</td><td>1.5124</td><td>1.5124</td><td>1.5127</td><td>1.5111</td><td align="center">1.5102</td></tr></tbody></table><h4 id="色散关系曲线"><a href="#色散关系曲线" class="headerlink" title="色散关系曲线"></a>色散关系曲线</h4><p>我们为了可以使用Excel里面的多项式拟合，所以我把$\lambda$取倒数，之后进行了多项式的拟合。主要原因当然还是我没学会在Excel里用负次幂多项式拟合。</p><p>![(C:\Users\理数\AppData\Roaming\Typora\typora-user-images\image-20191113120216045.png)</p><p><img src="C:%5CUsers%5C%E7%90%86%E6%95%B0%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20191113121835703.png" alt="image-20191113121835703"></p><p>得到的表达式为：$y=-106x^2+330.04x-255.03$</p><p>$n(5461A）=1.5125,不确定度计算为0.00245$</p><p>$n=1.5125 \pm 0.00245$</p><h4 id="实验结论"><a href="#实验结论" class="headerlink" title="实验结论"></a>实验结论</h4><p> 本次实验进一步锻炼了我调整光路、进行光学实验的能力。分光计英文是spectrometer，顾名思义 就是进行光谱实验的仪器。本实验中我看到了之前耳熟能详的汞灯的谱线，这令人感到 十分激动。本实验着重训练了我调整分光计的能力。感谢李晓文教授，赵鹏程同学，汤可欣同学在实验中对我的帮助。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;分光计实验报告&quot;&gt;&lt;a href=&quot;#分光计实验报告&quot; class=&quot;headerlink&quot; title=&quot; 分光计实验报告&quot;&gt;&lt;/a&gt;&lt;center&gt; 分光计实验报告&lt;/center&gt;&lt;/h1&gt;&lt;h4 id=&quot;测量的顶角A&quot;&gt;&lt;a href=&quot;#测量的顶角A&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="实验报告" scheme="http://yoursite.com/tags/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/03/23/hello-world/"/>
+    <id>http://yoursite.com/2020/03/23/hello-world/</id>
+    <published>2020-03-23T00:28:55.652Z</published>
+    <updated>2020-03-23T00:28:55.652Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
